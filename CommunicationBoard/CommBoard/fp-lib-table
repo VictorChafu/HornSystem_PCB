@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Capacitor_Feed")(type "KiCad")(uri "${KIPRJMOD}/Capacitor_Feed.pretty")(options "")(descr ""))
+)

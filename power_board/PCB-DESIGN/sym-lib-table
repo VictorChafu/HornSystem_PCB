@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "power_board_navy")(type "KiCad")(uri "${KIPRJMOD}/power_board_navy.kicad_sym")(options "")(descr ""))
+)

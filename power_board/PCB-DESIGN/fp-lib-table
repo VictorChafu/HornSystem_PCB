@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "YFF31HC2A105MT000N")(type "KiCad")(uri "${KIPRJMOD}/libs/YFF31HC2A105MT000N")(options "")(descr ""))
+  (lib (name "YFF31HC2A104M")(type "KiCad")(uri "${KIPRJMOD}/libs/YFF31HC2A104M")(options "")(descr ""))
+)
